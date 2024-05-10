@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "id3-reader",
+    "mp3-reader"
+]
